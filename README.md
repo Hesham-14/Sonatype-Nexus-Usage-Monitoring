@@ -214,7 +214,7 @@ Nexus store its live logs at `/nexus-data/log/request.log` and archive the daily
 
 
 > 📂 **Grab the Full Script**  
-> I’ve published the complete, ready-to-run script on GitHub [Here](https://github.com/my-org/nexus-metrics-exporter/blob/main/nexus_metrics_exporter.sh)  
+> I’ve published the complete, ready-to-run script on GitHub [Here](https://github.com/Hesham-14/Sonatype-Nexus-Usage-Monitoring.git)  
 > Feel free to clone, tweak the log paths, add your own flags, or submit a PR with improvements! 
 
 <br><br>  
